@@ -1,0 +1,4 @@
+torch>=1.9.0+cu102
+transformers>=4.9.2
+python-dotenv>=0.19.0
+PyQt5==5.15.4
